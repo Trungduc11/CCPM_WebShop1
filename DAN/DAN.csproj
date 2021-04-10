@@ -375,6 +375,7 @@
       <DependentUpon>DANModel.edmx</DependentUpon>
     </Content>
     <Content Include="libman.json" />
+    <Content Include="Views\Home\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
