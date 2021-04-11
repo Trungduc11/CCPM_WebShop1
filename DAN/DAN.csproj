@@ -388,6 +388,13 @@
     <Content Include="Views\Home\VanChuyen.cshtml" />
     <Content Include="Views\Layout\_Layout.cshtml" />
     <Content Include="Views\Category\Index.cshtml" />
+    <Content Include="Views\Order\Confirm.cshtml" />
+    <Content Include="Views\Order\Done.cshtml" />
+    <Content Include="Views\Order\Index.cshtml" />
+    <Content Include="Views\Order\Invoice.cshtml" />
+    <Content Include="Views\Order\ReturnVNPay.cshtml" />
+    <Content Include="Views\Order\SearchInvoice.cshtml" />
+    <Content Include="Views\Product\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -398,7 +405,6 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Attributes\" />
-    <Folder Include="Views\Product\" />
     <Folder Include="Views\Users\" />
     <Folder Include="Views\User\" />
   </ItemGroup>
