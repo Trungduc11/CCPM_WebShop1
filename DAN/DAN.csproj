@@ -388,6 +388,8 @@
     <Content Include="Views\Home\VanChuyen.cshtml" />
     <Content Include="Views\Layout\_Layout.cshtml" />
     <Content Include="Views\Category\Index.cshtml" />
+    <Content Include="Views\Cart\Index.cshtml" />
+    <Content Include="Views\Cart\ShowCart.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
