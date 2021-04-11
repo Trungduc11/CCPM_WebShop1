@@ -287,6 +287,9 @@
     <Compile Include="Areas\System\Controllers\ManageController.cs" />
     <Compile Include="Areas\System\Models\AdminViewModel.cs" />
     <Compile Include="Areas\System\SystemAreaRegistration.cs" />
+    <Compile Include="Controllers\CategoryController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\ProductController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -376,6 +379,14 @@
     </Content>
     <Content Include="libman.json" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Home\ChiTietKhuyenMai.cshtml" />
+    <Content Include="Views\Home\KhuyenMai.cshtml" />
+    <Content Include="Views\Home\LienHe.cshtml" />
+    <Content Include="Views\Home\MostView.cshtml" />
+    <Content Include="Views\Home\NewProduct.cshtml" />
+    <Content Include="Views\Home\SearchProduct.cshtml" />
+    <Content Include="Views\Home\VanChuyen.cshtml" />
+    <Content Include="Views\Layout\_Layout.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -386,7 +397,8 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Attributes\" />
-    <Folder Include="Controllers\" />
+    <Folder Include="Views\Category\" />
+    <Folder Include="Views\Product\" />
     <Folder Include="Views\Users\" />
     <Folder Include="Views\User\" />
   </ItemGroup>
