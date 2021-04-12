@@ -245,3 +245,7 @@ C:\Users\ADMINS\Desktop\DAN\DAN\DAN\obj\Debug\DAN.csproj.CoreCompileInputs.cache
 C:\Users\ADMINS\Desktop\DAN\DAN\DAN\obj\Debug\DAN.csproj.CopyComplete
 C:\Users\ADMINS\Desktop\DAN\DAN\DAN\obj\Debug\DAN.dll
 C:\Users\ADMINS\Desktop\DAN\DAN\DAN\obj\Debug\DAN.pdb
+C:\Users\ADMINS\Desktop\CCPM_WebShop1\DAN\DAN\obj\Debug\DAN.csprojAssemblyReference.cache
+C:\Users\ADMINS\Desktop\CCPM_WebShop1\DAN\DAN\obj\Debug\DAN.csproj.CoreCompileInputs.cache
+C:\Users\ADMINS\Desktop\CCPM_WebShop1\DAN\DAN\obj\Debug\DAN.dll
+C:\Users\ADMINS\Desktop\CCPM_WebShop1\DAN\DAN\obj\Debug\DAN.pdb
