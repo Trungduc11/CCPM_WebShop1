@@ -287,9 +287,12 @@
     <Compile Include="Areas\System\Controllers\ManageController.cs" />
     <Compile Include="Areas\System\Models\AdminViewModel.cs" />
     <Compile Include="Areas\System\SystemAreaRegistration.cs" />
+    <Compile Include="Controllers\CarttController.cs" />
     <Compile Include="Controllers\CategoryController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\OrderController.cs" />
     <Compile Include="Controllers\ProductController.cs" />
+    <Compile Include="Controllers\VnPayLibary.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -395,6 +398,8 @@
     <Content Include="Views\Order\ReturnVNPay.cshtml" />
     <Content Include="Views\Order\SearchInvoice.cshtml" />
     <Content Include="Views\Product\Index.cshtml" />
+    <Content Include="Views\Cartt\ShowCart.cshtml" />
+    <Content Include="Views\Cartt\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -407,6 +412,7 @@
     <Folder Include="Attributes\" />
     <Folder Include="Views\Users\" />
     <Folder Include="Views\User\" />
+    <Folder Include="Views\VnPayLibary\" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
